@@ -1,13 +1,11 @@
 {
-    "name": "Daisy programmer",
-    "short_name": "DaisyProg",
-    "theme_color": "#ffcbe4",
-    "background_color": "#fa99ca",
+    "name": "DFU programmer PWA",
+    "short_name": "DFU Prog",
     "display": "standalone",
     "scope": "/",
     "start_url": "https://svdh2.github.io/",
     "id":"/",
-    "description": "Tool to program the daisy familly of devices",
+    "description": "Programmer for the daisy familly of devices",
     "orientation": "any",
     "icons": [
         {
